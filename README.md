@@ -105,18 +105,19 @@ plt.show()
 
 ```
 ## OUTPUT
-![output](./1.png)
-![output](./2.png)
-![output](./3.png)
-![output](./4.png)
-![output](./5.png)
-![output](./6.png)
-![output](./7.png)
-![output](./8.png)
-![output](./9.png)
-![output](./10.png)
-![output](./11.png)
-![output](./12.png)
+![1](https://github.com/Kishorerz/EXNO2DS/assets/144451216/82a16631-b6db-4efb-99ec-157567f61da8)
+![2](https://github.com/Kishorerz/EXNO2DS/assets/144451216/956c0a70-a4ed-4418-8a09-aa2af6068aad)
+![3](https://github.com/Kishorerz/EXNO2DS/assets/144451216/2e165981-9767-40ae-96fe-8e51424b03c2)
+![4](https://github.com/Kishorerz/EXNO2DS/assets/144451216/1c1de469-4187-4a4c-826e-3d0bb8d398be)
+![5](https://github.com/Kishorerz/EXNO2DS/assets/144451216/d66ff548-fe50-4536-8d4d-9d537313504c)
+![6](https://github.com/Kishorerz/EXNO2DS/assets/144451216/f41b0827-c0d2-4a08-a64b-7940515b554b)
+![7](https://github.com/Kishorerz/EXNO2DS/assets/144451216/883c1277-d339-4441-b2f1-8084860fa512)
+![8](https://github.com/Kishorerz/EXNO2DS/assets/144451216/4cbe8bb8-13d6-4126-98bd-12f1c1798d4c)
+![9](https://github.com/Kishorerz/EXNO2DS/assets/144451216/44e5e39f-0f93-4184-853c-388630d1bf5a)
+![10](https://github.com/Kishorerz/EXNO2DS/assets/144451216/12f8eec4-0188-49ed-83e8-f11cf164a353)
+![11](https://github.com/Kishorerz/EXNO2DS/assets/144451216/773f7f2f-2cef-48b8-9a73-60156c329c91)
+
+![12](https://github.com/Kishorerz/EXNO2DS/assets/144451216/6fb40ba1-0597-4729-b0e0-6c003d64edee)
 
 # RESULT       
  ### Thus, the Exploratory Data Analysis on the given data set was performed successfully.
